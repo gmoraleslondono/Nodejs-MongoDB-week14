@@ -82,6 +82,11 @@ npm install express mongoose nodemon
 
 ## The API Challenges
 
+This project uses a MongoDB database named `myfirstdatabase`. The database stores a collection of items, where each item has the following fields:
+
+- name: A string representing the name of the item.
+- quantity: A number representing the quantity of the item.
+
 1. Write CRUD Routes: Create routes in your Node.js application for each CRUD operation:
 
    - `GET` to read all items from the database.
