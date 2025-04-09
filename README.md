@@ -4,8 +4,9 @@ In this assignment, you will follow the tutorial video and set up your own Mongo
 
 ## Video tutorial
 
-- https://www.youtube.com/watch?v=sf27YMNKnR4
-- https://www.youtube.com/watch?v=xd5wdA-mO-s
+- NodeJS and PostgreSQL: https://www.youtube.com/watch?v=sf27YMNKnR4
+- NodeJS and MongoDB and Mongo Express: https://www.youtube.com/watch?v=xd5wdA-mO-s
+- CRUD Operations and Advanced Techniques in Node: https://www.youtube.com/watch?v=UVfSmO62iIQ
 
 ## Setting up
 
