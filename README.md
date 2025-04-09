@@ -4,6 +4,7 @@ In this assignment, you will follow the tutorial video and set up your own Mongo
 
 ## Video tutorial
 
+https://www.youtube.com/watch?v=sf27YMNKnR4
 https://www.youtube.com/watch?v=xd5wdA-mO-s
 
 ## Setting up
